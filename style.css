@@ -1,0 +1,165 @@
+body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	border: 1px solid black;
+}
+
+.container{
+	margin: 0 auto;
+	width: 100px;
+}
+
+.top-part p{
+	text-transform: uppercase;
+}
+
+.top-part{
+	font-size: 14px;
+	display: inline-block;
+	width: 100%;
+}
+
+#Information p{
+	float: left;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+#Information span{
+	float: left;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#logo-top{
+	display: inline-block;
+	position: absolute;
+	left: 50%;
+}
+
+#logo-top img{
+	width: 63px;
+	height: 60px;
+}
+
+#right-part-top{
+	display: inline-block;
+	float: right;
+}
+
+#right-part-top div{
+	float: right;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#right-part-top div span{
+	float: right;
+	margin-right: 10px;
+	margin-top: 15px;
+}
+
+#right-part-top div p{
+	float: right;
+	margin-top: 20px;
+}
+
+.top-part a{
+	color: #000;
+}
+
+.menu{
+	margin: 0;
+	padding: 0;
+	display: block;
+	padding-top: 40px;
+}
+
+.menu li{
+	display: inline;
+	margin-left: 110px;
+}
+
+.menu a{
+	text-decoration: none;
+	color: #000;
+	text-transform: uppercase;
+	margin: 0 auto;
+	font-weight: bold;
+}
+
+#nav-text-sell{
+	color: rgb(237, 27, 36);
+}
+
+#part-with-picture{
+	padding-top: 40px;
+	position: relative;
+	padding-bottom: 50px;
+}
+
+#part-with-picture img{
+	width: 100%;
+	height: 60%;
+}
+
+#part-with-picture p{
+	position: absolute;
+	font-size: 55px;
+	text-transform: uppercase;
+	font-weight: bold;
+	left: 30%;
+	top: 30%;
+	color: rgb(237, 27, 36);
+}
+
+#part-with-picture span{
+	position: absolute;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 30px;
+	background-color: rgb(237, 27, 36);
+	font-weight: bold;
+	left: 40%;
+	top: 48%;
+	border-radius: 10px;
+}
+
+#part-with-picture a{
+	color: #fff;
+}
+
+
+footer{
+	background-color: rgb(244, 243, 241);
+	height: 300px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+footer table{
+	width: 100%;
+	text-align: center;
+}
+
+.main-td{
+	text-transform: uppercase;
+	font-size: 15px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-weight: bold;
+}
+
+footer table a{
+	text-decoration: none;
+	color: #000;
+}
+
+footer table td{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
